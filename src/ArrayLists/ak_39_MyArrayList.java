@@ -23,14 +23,14 @@ public class ak_39_MyArrayList{
         //System.out.println(fruits.get(1));
         //fruits.clear();
 
-        /*List<String> toRemove = new ArrayList<>();
+        List<String> toRemove = new ArrayList<>();
         toRemove.add("Apple");
         toRemove.add("Mango");
         fruits.removeAll(toRemove);*/
 
-        //System.out.println(fruits.size());
-        //System.out.println(fruits.contains("Orange"));
-        //System.out.println(fruits.isEmpty());
+        System.out.println(fruits.size());
+        System.out.println(fruits.contains("Orange"));
+        System.out.println(fruits.isEmpty());
 
         String temp[] = new String[fruits.size()];
 
