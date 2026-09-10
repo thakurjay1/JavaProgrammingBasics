@@ -5,7 +5,6 @@ import java.util.List;
 
 public class ak_39_MyArrayList{
     public static void main(String[] args) {
-
         List<String> fruits = new ArrayList<>();
         List<String> vegetables = new ArrayList<>();
 
