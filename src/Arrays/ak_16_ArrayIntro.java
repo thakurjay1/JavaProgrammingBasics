@@ -1,6 +1,7 @@
 package Arrays;
 
 public class ak_16_ArrayIntro {
+    
     public static void main(String[] args) {
 //  Arrays has contiguous memory location.....
 
