@@ -10,6 +10,7 @@ public class ak_16_AverageMarksOfStudents {
 
         int marks[]= new int[n];
         System.out.println("Enter the marks of students");
+        
         for(int i=0; i<n; i++){
             marks[i] = obj.nextInt();
         }
