@@ -9,7 +9,6 @@ public class ak_10_forLoops {
         Scanner obj = new Scanner(System.in);
 
 //  Factorial:-
-
         /*System.out.println("Enter the number");
         int n = obj.nextInt();
         int fact = 1;
